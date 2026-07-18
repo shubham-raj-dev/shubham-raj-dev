@@ -6,13 +6,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shubbhamsingh&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=shubham-raj-dev&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 &nbsp;
 <a href="https://www.linkedin.com/in/shubham-raj840"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="https://shubham-raj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:shubhamsingh84098@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:shubhamsingh161203@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white" />
 
@@ -105,7 +105,7 @@ me.say_hi()
 - 🚚 Integrated Packers & Movers booking system
 - 🌍 Live and deployed on Vercel
 
-[![Source](https://img.shields.io/badge/Source-242929?style=for-the-badge&logo=github)](https://github.com/shubbhamsingh/UrbanShift-Project)
+[![Source](https://img.shields.io/badge/Source-242929?style=for-the-badge&logo=github)](https://github.com/shubham-raj-dev/UrbanShift-Project)
 [![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://urbanshift.vercel.app)
 
 ---
@@ -117,7 +117,7 @@ me.say_hi()
 - 🛒 Dynamic cart management with real-time price calculation
 - 📱 Responsive design for all screen sizes
 
-[![Source](https://img.shields.io/badge/Source-242929?style=for-the-badge&logo=github)](https://github.com/shubbhamsingh/Pizza_store_project)
+[![Source](https://img.shields.io/badge/Source-242929?style=for-the-badge&logo=github)](https://github.com/shubham-raj-dev/Pizza_store_project)
 
 ---
 
@@ -127,7 +127,7 @@ me.say_hi()
 - 🔧 **Tech:** HTML5, CSS3, JavaScript
 - 🏅 Built under competition deadline — showcased at college-level event
 
-[![Source](https://img.shields.io/badge/Source-242929?style=for-the-badge&logo=github)](https://github.com/shubbhamsingh/Techvolution_2024_Major_Project)
+[![Source](https://img.shields.io/badge/Source-242929?style=for-the-badge&logo=github)](https://github.com/shubham-raj-dev/Techvolution_2024_Major_Project)
 
 ---
 
@@ -138,8 +138,8 @@ me.say_hi()
 - ✅ Real-time email & phone validation
 - 📱 Fully responsive, mobile-first design
 
-[![Source](https://img.shields.io/badge/Source-242929?style=for-the-badge&logo=github)](https://github.com/shubbhamsingh/Techvolution_Minor_Project)
-[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://shubbhamsingh.github.io/Techvolution_Minor_Project/)
+[![Source](https://img.shields.io/badge/Source-242929?style=for-the-badge&logo=github)](https://github.com/shubham-raj-dev/Techvolution_Minor_Project)
+[![Live](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel)](https://shubham-raj-dev.github.io/Techvolution_Minor_Project/)
 
 ---
 
@@ -169,13 +169,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubbhamsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-raj-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubbhamsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-raj-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="160" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubbhamsingh&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-raj-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -185,7 +185,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubbhamsingh&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham-raj-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -197,8 +197,8 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-raj840)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Shubham%20Raj-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shubham-raj-portfolio.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-shubbhamsingh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubbhamsingh)
-[![Gmail](https://img.shields.io/badge/Gmail-shubhamsingh84098-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsingh84098@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shubham-raj-dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubham-raj-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-shubhamsingh161203-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsingh161203@gmail.com)
 
 </div>
 
