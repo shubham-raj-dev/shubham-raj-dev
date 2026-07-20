@@ -158,9 +158,9 @@ me.say_hi()
 | Certificate | Issuer | Year |
 |---|---|---|
 | 🏅 Full Stack Web Development | YHills | 2024 |
-| 🛡️ Cyber Security | Cisco | 2024 |
-| 🤖 Generative AI Literacy | LinkedIn Learning | 2024 |
-| 🤖 AI Internship | IBM SkillsBuild × AICTE (Edunet) | 2024 |
+| 🛡️ Cybersecurity Virtual Internship | Cisco Networking Academy | 2025 |
+| 🤖 AI & Cloud Technologies Internship (Dual-Track) | IBM SkillsBuild × Edunet Foundation (AICTE) | 2026 |
+| 🚀 Generative AI Literacy | LinkedIn Learning | 2024 |
 | 📊 Data Analytics Workshop | GRRAS | 2024 |
 
 ---
@@ -175,7 +175,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-raj-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+<img src="https://streak-stats.demolab.com?user=shubham-raj-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
 
 </div>
 
