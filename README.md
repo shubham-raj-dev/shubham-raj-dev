@@ -1,20 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Raj&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20React&descAlignY=58&descSize=18" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Raj&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20React&descAlignY=58&descSize=18](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Raj&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Python%20%E2%80%A2%20Django%20%E2%80%A2%20React&descAlignY=58&descSize=18)" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shubham+Raj+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+real-world+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shubham+Raj+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+real-world+solutions+%F0%9F%9A%80](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Shubham+Raj+%F0%9F%91%8B;Full+Stack+Developer;Python+%7C+Django+%7C+React;Building+real-world+solutions+%F0%9F%9A%80)" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shubham-raj-dev&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
+<img src="[https://komarev.com/ghpvc/?username=shubham-raj-dev&label=Profile+Views&color=00d9ff&style=flat-square](https://komarev.com/ghpvc/?username=shubham-raj-dev&label=Profile+Views&color=00d9ff&style=flat-square)" alt="Profile Views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/shubham-raj840"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/shubham-raj840](https://www.linkedin.com/in/shubham-raj840)"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)" /></a>
 &nbsp;
-<a href="https://shubham-raj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="[https://shubham-raj-portfolio.vercel.app](https://shubham-raj-portfolio.vercel.app)"><img src="[https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)" /></a>
 &nbsp;
-<a href="mailto:shubhamsingh161203@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="mailto:shubhamsingh161203@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="[https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white](https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white)" />
 
 </div>
 
@@ -58,31 +58,31 @@ me.say_hi()
 **Frontend**
 
 <table><tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/><br>HTML5</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/><br>CSS3</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/><br>JavaScript</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/><br>React</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/><br>Bootstrap</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/><br>Tailwind</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" width="45" height="45"/><br>HTML5</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" width="45" height="45"/><br>CSS3</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" width="45" height="45"/><br>JavaScript</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" width="45" height="45"/><br>React</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)" width="45" height="45"/><br>Bootstrap</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)" width="45" height="45"/><br>Tailwind</td>
 </tr></table>
 
 **Backend**
 
 <table><tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/><br>Python</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/><br>Django</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/><br>Node.js</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45"/><br>Express.js</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" width="45" height="45"/><br>Python</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)" width="45" height="45"/><br>Django</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)" width="45" height="45"/><br>Node.js</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)" width="45" height="45"/><br>Express.js</td>
 </tr></table>
 
 **Database & Tools**
 
 <table><tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/><br>PostgreSQL</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/><br>MongoDB</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/><br>Git</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/><br>GitHub</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/><br>VS Code</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" width="45" height="45"/><br>PostgreSQL</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)" width="45" height="45"/><br>MongoDB</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)" width="45" height="45"/><br>Git</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" width="45" height="45"/><br>GitHub</td>
+<td align="center"><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)" width="45" height="45"/><br>VS Code</td>
 </tr></table>
 
 **Platforms & Others**
@@ -143,25 +143,36 @@ me.say_hi()
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Virtual Internships
+
+**🎓 AI Virtual Intern (Track 7.0) — Infosys Springboard**
+`Mar 2026 – Present`
+- Completed core certifications including AI Primer, Principles of Generative AI, and OpenAI GPT 3 for Developers.
+- Built a strong conceptual and practical foundation in Generative AI and real-world LLM integrations.
+
+**🤖 AI Virtual Intern (6-Week Track) — IBM SkillsBuild × Edunet Foundation**
+`May 2026 – Jun 2026`
+- Completed a rigorous 6-week track focusing deeply on Artificial Intelligence via the IBM SkillsBuild platform.
+- Developed a standalone AI project under mentor guidance, mastering foundational and advanced AI concepts.
+
+**☁️ AI & Cloud Technologies Intern (4-Week Track) — IBM SkillsBuild × Edunet Foundation**
+`May 2026 – Jun 2026`
+- Accelerated 4-week dual-track internship focusing on Artificial Intelligence and IBM Cloud Platform integration.
+- Solved real-world challenges by deploying emerging technologies on enterprise cloud infrastructure.
 
 **🖥️ Web Development Intern — YHills**
 `Mar 2024 – Jun 2024`
-- Completed intensive Full Stack Web Development program
-- Built and deployed real-world minor and major projects
-- Hands-on with React.js, Node.js, MongoDB, and REST APIs
+- Completed intensive Full Stack Web Development program.
+- Built and deployed real-world minor and major projects.
+- Hands-on with React.js, Node.js, MongoDB, and REST APIs.
 
 ---
 
 ## 📜 Certifications
 
 | Certificate | Issuer | Year |
-|---|---|---|
-| 🏅 Full Stack Web Development | YHills | 2024 |
+| :--- | :--- | :--- |
 | 🛡️ Cybersecurity Virtual Internship | Cisco Networking Academy | 2025 |
-| 🤖 AI & Cloud Technologies Internship (Dual-Track) | IBM SkillsBuild × Edunet Foundation (AICTE) | 2026 |
-| 🚀 Generative AI Literacy | LinkedIn Learning | 2024 |
-| 📊 Data Analytics Workshop | GRRAS | 2024 |
 
 ---
 
@@ -169,13 +180,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubham-raj-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160" />
+<img src="[https://github-readme-stats.vercel.app/api?username=shubham-raj-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF](https://github-readme-stats.vercel.app/api?username=shubham-raj-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-raj-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="160" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-raj-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-raj-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)" height="160" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=shubham-raj-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" />
+<img src="[https://streak-stats.demolab.com?user=shubham-raj-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF](https://streak-stats.demolab.com?user=shubham-raj-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF)" />
 
 </div>
 
@@ -204,4 +215,4 @@ me.say_hi()
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)" width="100%" />
