@@ -182,6 +182,10 @@ me.say_hi()
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-raj-dev&theme=tokyonight" />
+
+<br/><br/>
+
 <img src="https://github-readme-stats-nu-one-26.vercel.app/api?username=shubham-raj-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160" />
 &nbsp;
 <img src="https://github-readme-stats-nu-one-26.vercel.app/api/top-langs/?username=shubham-raj-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="160" />
