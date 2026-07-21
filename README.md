@@ -143,7 +143,22 @@ me.say_hi()
 
 ---
 
-## 💼 Experience
+## 💼 Experience & Virtual Internships
+
+**🚀 AI Virtual Intern (Track 7.0) — Infosys Springboard**
+`Mar 2026 – Present`
+- Completed core certifications including AI Primer, Principles of Generative AI, and OpenAI GPT-3 for Developers
+- Built a strong conceptual and practical foundation in Generative AI and real-world LLM integrations
+
+**🤖 AI Virtual Intern (6-Week Track) — IBM SkillsBuild × Edunet Foundation**
+`May 2026 – Jun 2026`
+- Completed a rigorous 6-week track focusing deeply on Artificial Intelligence via the IBM SkillsBuild platform
+- Developed a standalone AI project under mentor guidance, mastering foundational and advanced AI concepts
+
+**☁️ AI & Cloud Technologies Intern (4-Week Track) — IBM SkillsBuild × Edunet Foundation**
+`May 2026 – Jun 2026`
+- Accelerated 4-week dual-track internship focusing on Artificial Intelligence and IBM Cloud Platform integration
+- Solved real-world challenges by deploying emerging technologies on enterprise cloud infrastructure
 
 **🖥️ Web Development Intern — YHills**
 `Mar 2024 – Jun 2024`
@@ -157,9 +172,7 @@ me.say_hi()
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| 🏅 Full Stack Web Development | YHills | 2024 |
 | 🛡️ Cybersecurity Virtual Internship | Cisco Networking Academy | 2025 |
-| 🤖 AI & Cloud Technologies Internship (Dual-Track) | IBM SkillsBuild × Edunet Foundation (AICTE) | 2026 |
 | 🚀 Generative AI Literacy | LinkedIn Learning | 2024 |
 | 📊 Data Analytics Workshop | GRRAS | 2024 |
 
@@ -169,9 +182,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubham-raj-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160" />
+<img src="https://github-readme-stats-nu-one-26.vercel.app/api?username=shubham-raj-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-raj-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="160" />
+<img src="https://github-readme-stats-nu-one-26.vercel.app/api/top-langs/?username=shubham-raj-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="160" />
 
 <br/><br/>
 
