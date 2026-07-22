@@ -182,7 +182,11 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-raj-dev&theme=tokyonight" />
+<img src="https://github.com/shubham-raj-dev.png" width="120" style="border-radius:50%" />
+
+<br/><br/>
+
+<img src="https://gh-readme-profile.vercel.app/api?username=shubham-raj-dev" />
 
 <br/><br/>
 
