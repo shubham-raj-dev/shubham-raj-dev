@@ -28,6 +28,7 @@ class ShubhamRaj:
         self.name        = "Shubham Raj"
         self.role        = "Full Stack Developer"
         self.university  = "Jagannath University, Jaipur (B.Tech CSE '27)"
+        self.origin    = "Nawada, Bihar, India"
         self.location    = "Jaipur, Rajasthan, India 🇮🇳"
         self.focus       = ["Python", "Django", "Full Stack Web Development"]
         self.building    = "UrbanShift — Real Estate & Relocation Platform"
