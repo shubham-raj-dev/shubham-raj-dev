@@ -222,7 +222,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubham-raj-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Shubham's github activity graph](https://raw.githubusercontent.com/shubham-raj-dev/shubham-raj-dev/output/dist/activity-graph.svg)
 
 </div>
 
